@@ -4,7 +4,7 @@
   padding-top: 100px;
   padding-left: 60px;
   padding-right: 60px;
-  height: 352px;
+  height: 654px;
 }
 
 body {
@@ -34,6 +34,7 @@ h1 {
   text-align: center;
   position: relative;
   padding-top: 10px;
+  font-size: 4.4rem;
 }
 
 /*This is an alternate class for 'thinner' font weights on headers*/
@@ -69,6 +70,7 @@ a:hover {
   position: relative;
   color: white;
   letter-spacing: 0.02em;
+  padding-top: 300px;
 }
 
 .jumbotron.cardHero p {
