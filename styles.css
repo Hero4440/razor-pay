@@ -1,4 +1,3 @@
-/* -- for codepen display purposes only -- */
 .jumbotron {
   padding-bottom: 48px;
   padding-top: 100px;
@@ -36,32 +35,23 @@ h1 {
   padding-top: 10px;
   font-size: 4.4rem;
 }
-
-/*This is an alternate class for 'thinner' font weights on headers*/
 .h--alt {
   font-weight: 300;
   margin-top: 0;
 }
-
-/*Bootstrap OOB header tags are too small. This is an adjustment*/
-
 h5 {
   font-size: 16px;
 }
-
 h6 {
   font-size: 14px;
 }
-
 a {
   color: #0e48ad;
 }
-
 a:focus,
 a:hover {
   color: #123294;
 }
-
 .jumbotron.cardHero {
   border-radius: 0;
   background: transparent;
